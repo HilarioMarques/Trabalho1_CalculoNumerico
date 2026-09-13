@@ -5,10 +5,7 @@ class FuncaoMovimento:
     """
     Classe responsável por representar a função matemática
     do problema e sua derivada.
-
-    Separar a função dos métodos numéricos facilita a manutenção
-    do código e permite trocar a equação sem alterar os algoritmos
-    de Bisseção e Newton-Raphson.
+    
     """
 
     def __init__(self, a):
